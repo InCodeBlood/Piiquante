@@ -1,17 +1,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/PabloSgns/Piiquante">
-    <img src="https://github.com/PabloSgns/Piiquante/blob/main/readme_img/logo.png" alt="Logo" width="600" height=300">
+  <a href="https://github.com/Pasacod/Piiquante">
+    <img src="https://github.com/Pasacod/Piiquante/blob/main/readme_img/logo.png" alt="Logo" width="600" height=300">
   </a>
 
-<h3 align="center">Kanap</h3>
+<h3 align="center">Piiquante</h3>
 
   <p align="center">
     This project is the n°6 of OpenClassrooms Web Developper course which consists in building a secure API for a hot sauce reviews app.
     <br />
     <br />
-    <a href="https://github.com/PabloSgns/Piiquante"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Pasacod/Piiquante"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -71,7 +71,7 @@ The frontend code is given to us at he beginning of the project. The goal is to 
    
 3. Clone the repo
    ```sh
-   git clone https://github.com/PabloSgns/Piiquante.git
+   git clone https://github.com/Pasacod/Piiquante.git
    ```
     
 4. Go to the folder that contains the backend code and install npm
